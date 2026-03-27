@@ -19,6 +19,7 @@ Planificador de hábitos y rutinas diarias hecho con HTML, CSS y JavaScript puro
 1. Descarga o clona el repositorio
 2. Abre `rutinapp.html` en cualquier navegador
 3. No necesita internet ni instalación
+4. Para probarlo haz clik aquí https://migiva-dev.github.io/rutinapp/index.html
 
 ## Tecnologías
 
