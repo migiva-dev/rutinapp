@@ -1,4 +1,4 @@
-# rutinapp 🟣
+# Rutina App 🟣
 
 Planificador de hábitos y rutinas diarias hecho con HTML, CSS y JavaScript puro. Sin frameworks, sin instalaciones, sin servidor. Abre el archivo y listo.
 
